@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div
+      className="card"
+      style={Object {}}
+    >
+      <img
+        className="card-img-top"
+        src=""
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        />
+        <p
+          className="card-text"
+        >
+          Hello! This is Nick Shapoff, a software developer making cool things for others!
+        </p>
+      </div>
+    </div>
+  </header>
+</div>
+`;
